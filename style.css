@@ -1,0 +1,22 @@
+body{
+background: rgb(235, 167, 204); /*Fundo da pagina*/
+font: normal 15pt Arial; /*Fonte geral da página*/
+}
+header{
+    color: #ffffff; /*Cor do titulo*/
+    text-align: center; /*Alinhando o texto*/
+}
+section{
+    background: white; /*cor do quadrado*/
+    border-radius: 10px; /*borda redonda*/
+    padding: 15px; 
+    width: 500px; /*Tamanho do quadrado*/
+    margin: auto; /*centralizando o quadrado*/
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.493);/*sombra do quadrado*/
+
+}
+footer{
+    color: #ffffff; /*cor do texto do rodapé*/
+    text-align: center; /*Centralizando o texto*/
+    font-style: italic; /*Fonte do texto*/
+}
